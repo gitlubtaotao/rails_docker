@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ac69def-438d-4bdc-87a3-38a6339748fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rails_docker_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrypoint.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blorgh/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../blorgh/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_docker/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_docker/.dockerignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_docker/.env" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_docker/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_docker/.idea/rails_docker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_docker/.idea/rails_docker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_docker/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_docker/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_docker/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_docker/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_docker/docker/app/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_docker/docker/app/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_docker/docker/db/grant_user.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_docker/docker/db/grant_user.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_docker/docker/web/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_docker/docker/web/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rails_docker/docker/web/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../rails_docker/docker/web/nginx.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/assets/javascripts/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/assets/javascripts/application.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/assets/javascripts/turbolinks_header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/assets/stylesheets/application.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/assets/stylesheets/application.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/controllers/about_us_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/controllers/about_us_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/controllers/application_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/controllers/case_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/controllers/case_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/controllers/concerns/fetch_data.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/controllers/concerns/fetch_data.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/controllers/home_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/controllers/home_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/controllers/information_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/controllers/information_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/controllers/join_us_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/controllers/service_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/controllers/tool_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/controllers/tool_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/controllers/track_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/controllers/track_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/helpers/about_us_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/helpers/about_us_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/helpers/application_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/helpers/application_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/css_modules/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/css_modules/mobile.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/css_modules/mobile.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/css_modules/mobile_en.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/css_modules/web.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/css_modules/web.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/css_modules/web_en.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/js_modules/mobile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/js_modules/mobile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/js_modules/web.js" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/js_modules/web.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/images/Group.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/images/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/images/circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/images/left1@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/images/left2@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/images/more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/images/more2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/images/path1@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/images/pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/images/right1@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/images/right2@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/images/search@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/images/see.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/images/ship@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/images/time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/images/xie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/mobile.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/mobile_home.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/naver.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/ver.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/web.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/layouts/urich/web_home.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/mobile/about_us.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/mobile/about_us.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/mobile/case.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/mobile/case.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/mobile/information.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/mobile/information.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/mobile/join_us.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/mobile/join_us.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/mobile/service.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/mobile/service.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/mobile/tool.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/mobile/tool.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/mobile/track.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/mobile/track.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/web/about_us.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/web/about_us.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/web/case.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/web/case.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/web/information.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/web/information.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/web/join_us.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/web/join_us.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/web/service.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/web/service.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/web/tool.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/web/tool.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/web/track.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_assets/web/track.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_js/web/tool.js" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/page_js/web/tool.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/javascript/packs/web.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/about_us/index.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/about_us/index.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/home/urich/_part1.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/home/urich/_part2.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/home/urich/_part3.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/home/urich/_part4.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/home/urich/_part5.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/home/urich/index.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/information/_index.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/information/_index.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/information/index.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/information/index.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/information/show.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/information/show.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/auth-yllog/_bottom.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/auth-yllog/_naver.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/auth-yllog/application.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/best-time/_bottom.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/best-time/_naver.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/best-time/application.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/common/_bottom.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/common/_footer.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/layouts/common/_footer.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/common/_header.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/layouts/common/_header.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/eshine-express/_bottom.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/eshine-express/_naver.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/eshine-express/application.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/eu-around/_bottom.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/eu-around/_naver.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/eu-around/application.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/greatoceanline/_bottom.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/greatoceanline/_naver.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/greatoceanline/application.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/guojihuodi/_bottom.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/guojihuodi/_naver.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/guojihuodi/application.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/keytimes/_bottom.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/keytimes/_naver.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/keytimes/application.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/lantingsc/_bottom.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/lantingsc/_naver.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/lantingsc/application.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/pol-logistics/_bottom.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/pol-logistics/_naver.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/pol-logistics/application.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/tjmaestro/_baidu_top.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/tjmaestro/_bottom.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/tjmaestro/_naver.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/tjmaestro/application.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/trimanshipping/_bottom.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/trimanshipping/_naver.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/trimanshipping/application.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/urich/_bottom.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/layouts/urich/_bottom.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/urich/_naver.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/layouts/urich/_naver.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/urich/application.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/youtulink/_bottom.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/youtulink/_naver.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/youtulink/application.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/ywtaijia/_bottom.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/ywtaijia/_naver.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/ywtaijia/application.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/zone-sea/_bottom.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/zone-sea/_naver.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/layouts/zone-sea/application.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/tool/_boat_company.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/tool/_boat_company.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/tool/_box.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/tool/_box.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/tool/_fba.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/tool/_fba.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/tool/_fba_item.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/tool/_fba_item.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/tool/_port.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/tool/_sidebar.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/tool/_sidebar.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/tool/_three.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/tool/_three.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/tool/_two.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/tool/_two.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/tool/boat_companies.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/tool/boat_companies.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/tool/cap_size.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/tool/cap_size.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/tool/index.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/tool/index.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/tool/three_code.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/tool/three_code.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/tool/two_code.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/tool/two_code.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/tool/warehouse.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/tool/warehouse.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/app/views/track/index.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/app/views/track/index.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/bin/webpack" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/bin/webpack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/bin/webpack-dev-server" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/bin/webpack-dev-server" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/config/application.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/config/deploy.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/config/deploy.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/config/deploy/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/config/deploy/production.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/config/environments/development.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/config/environments/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/config/environments/production.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/config/locales/en.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/config/locales/en.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/config/locales/zh-CN.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/config/locales/zh-CN.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/config/puma.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/config/puma.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/config/unicorn/production.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/config/webpack/environment.js" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/config/webpack/environment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/test/application_system_test_case.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/test/controllers/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/test/fixtures/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/test/fixtures/files/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/test/helpers/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/test/integration/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/test/mailers/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/test/models/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/test/system/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/test/test_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urichf_web/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../urichf_web/yarn.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entrypoint.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/entrypoint.sh" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-4" />
+    <option name="width" value="1920" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rails_docker_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rails_docker_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rails_docker_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rails_docker_1" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rails_docker_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rails_docker_1" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ac69def-438d-4bdc-87a3-38a6339748fe" name="Default Changelist" comment="" />
+      <created>1575689171480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575689171480</updated>
+      <workItem from="1575689172825" duration="2043000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2043000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-4" width="1920" height="1047" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/entrypoint.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

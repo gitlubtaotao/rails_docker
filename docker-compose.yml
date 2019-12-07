@@ -1,0 +1,35 @@
+version: '3.7'
+services:
+  web:
+    build: .
+    volumes:
+      - ".:/myapp"
+    ports:
+      - "3000:3000"
+    depends_on:
+      - db
+    environment:
+      DB_USERNAME: root
+      DB_PASSWORD: qweqwe123
+      DB_DATABASE: rails_docker
+      DB_HOST: db
+      DB_PORT: 3306
+      RAILS_ENV: production
+      RAILS_MAX_THREDS: 5
+  db:
+    image: mysql:5.7.11
+    environment:
+      MYSQL_ROOT_PASSWORD: qweqwe123
+      MYSQL_USERNAME: root
+      MYSQL_PASSWORD: qweqwe123
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./tmp/db:/var/lib/mysql/data
+#  redis:
+#    image: "redis:4.0-alpine"
+#    command: redis-server
+##    volumes:
+##      - "redis:/data"
+#    ports:
+#      - 6379:6379
