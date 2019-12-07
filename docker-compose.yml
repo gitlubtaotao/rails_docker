@@ -7,16 +7,16 @@ services:
     ports:
       - "3000:3000"
     depends_on:
-      - db
+      - mysql
     environment:
       DB_USERNAME: root
       DB_PASSWORD: qweqwe123
       DB_DATABASE: rails_docker
-      DB_HOST: db
+      DB_HOST: 'mysql'
       DB_PORT: 3306
       RAILS_ENV: production
       RAILS_MAX_THREDS: 5
-  db:
+  mysql:
     image: mysql:5.7.11
     environment:
       MYSQL_ROOT_PASSWORD: qweqwe123
